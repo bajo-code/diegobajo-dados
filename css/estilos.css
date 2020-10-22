@@ -1,0 +1,18 @@
+.login{
+    background-color: #fff;
+    height: 200px;
+    width: 600px;
+    margin: auto;
+    font-family: "Roboto";
+    margin-top:90px;
+    text-align:center;
+    border-radius: 40px;
+}
+body{
+    background-color: #2e2e2e;
+}
+
+h1{
+    padding-top: 15px;
+    letter-spacing: 2px;
+}

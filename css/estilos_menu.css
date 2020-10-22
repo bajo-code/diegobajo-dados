@@ -1,0 +1,102 @@
+.container {
+    height: 300px;
+    width: 800px;
+    margin-left: 420px;
+    
+}
+
+body{
+    background-color: #2e2e2e;
+}
+
+
+/*TITULOS*/
+h1{
+    font-size: 50px;
+    color: #fff;
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Helvetica';
+}
+h1{color: white; text-shadow: black 0.1em 0.1em 0.2em}
+
+h2{
+    font-size: 15px;
+    color: #fff;
+    text-align: center;
+    padding-top: 20px;
+    font-family: Helvetica;
+}
+
+/*DIVS Interior*/
+
+
+
+.tirada{
+    
+    background-color: rgb(130, 177, 206);
+    float: left;
+    width: 100px;
+    height: 70px;
+    margin: 0.5em;
+
+}
+
+.tirada:hover{
+        background-color: rgb(85, 207, 146);
+}
+div.tirada{
+    border-radius: 20px;
+}
+
+
+.suma_siete{
+    
+    background-color: rgb(130, 177, 206);
+    float: left;
+    width: 100px;
+    height: 70px;
+    margin: 0.5em;
+}
+
+.suma_siete:hover{
+        background-color: rgb(207, 85, 85);
+}
+div.suma_siete{
+    border-radius: 20px;
+}
+
+
+.par_impar{
+    
+    background-color: rgb(130, 177, 206);
+    float: left;
+    width: 120px;
+    height: 70px;
+    margin: 0.5em;
+}
+
+.par_impar:hover{
+        background-color: rgb(85, 114, 207);
+}
+div.par_impar{
+    border-radius: 20px;
+}
+
+
+.acerca_de{
+    
+    background-color: rgb(130, 177, 206);
+    float: left;
+    width: 120px;
+    height: 70px;
+    margin: 0.5em;
+    
+}
+
+.acerca_de:hover{
+        background-color: rgb(207, 141, 41);
+}
+div.acerca_de{
+    border-radius: 20px;
+}
